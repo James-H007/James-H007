@@ -10,8 +10,8 @@
 ### About Me
 - ✏️ Currently writing an interactive book with ChoiceScript
 - 💬 Ask me about any internships or volunteer work oppurtunities
-- 🔭 I’m currently working on a Tumblr clone with @Sterling-Hebert & @MattDavid99
-- 🌱 I’m currently learning Docker!
+- 🔭 I’m currently working on a journaling app, Journa-Gami
+- 🌱 I’m currently learning AWS!
 
 ----
 <div align='center'>
