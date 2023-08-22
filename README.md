@@ -10,7 +10,7 @@
 ### About Me
 - ✏️ Currently writing an interactive book with ChoiceScript
 - 💬 Ask me about any internships or volunteer work oppurtunities
-- 🔭 I’m currently working on a journaling app, Journa-Gami
+- 🔭 I’m currently scaling my journaling app, Journa-Gami
 - 🌱 I’m currently learning AWS!
 
 ----
