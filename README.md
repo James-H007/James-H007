@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" alt="SQL" height="50px" width="50px" />&nbsp;
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=James-H007&theme=gruvbox&show_icons=true" alt="James's GitHub stats" />
 
 ----
 <!-- LinkedIn -->
