@@ -8,10 +8,8 @@
 
 -----
 ### About Me
-- ✏️ Currently writing an interactive book with ChoiceScript
-- 💬 Ask me about any job opportunities with software engineering / full-stack engineering
-- 🔭 I’m currently creating an art portfolio site for a client.
-- 🌱 I’m currently learning AWS!
+- ✏️ Currently working on a Game Jam
+
 
 ----
 <div align='center'>
